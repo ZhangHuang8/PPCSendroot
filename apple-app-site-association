@@ -1,18 +1,6 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appID": "G56NU654TV.io.dcloud.HBuilder",
-                "paths": ["/ulink/*", "/qq_conn/1104455702/*"]
-            },
-            {
-                "appID": "G56NU654TV.io.dcloud.T",
-                "paths": ["/ulinktest/*"]
-            }
-        ]
-    },
-    "appclips": {
+    "appclips": 
+    {
         "apps": ["JZHNJNW7YP.com.zh.shakePhoto.Clip"]
     }
 }
